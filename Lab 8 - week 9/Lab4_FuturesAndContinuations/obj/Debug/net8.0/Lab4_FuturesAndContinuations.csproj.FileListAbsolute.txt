@@ -1,0 +1,14 @@
+D:\Facultate\An 3\1st sem\classes\Programare paralela si distribuita\Lab 8 - week 9\Lab4_FuturesAndContinuations\bin\Debug\net8.0\Lab4_FuturesAndContinuations.exe
+D:\Facultate\An 3\1st sem\classes\Programare paralela si distribuita\Lab 8 - week 9\Lab4_FuturesAndContinuations\bin\Debug\net8.0\Lab4_FuturesAndContinuations.deps.json
+D:\Facultate\An 3\1st sem\classes\Programare paralela si distribuita\Lab 8 - week 9\Lab4_FuturesAndContinuations\bin\Debug\net8.0\Lab4_FuturesAndContinuations.runtimeconfig.json
+D:\Facultate\An 3\1st sem\classes\Programare paralela si distribuita\Lab 8 - week 9\Lab4_FuturesAndContinuations\bin\Debug\net8.0\Lab4_FuturesAndContinuations.dll
+D:\Facultate\An 3\1st sem\classes\Programare paralela si distribuita\Lab 8 - week 9\Lab4_FuturesAndContinuations\bin\Debug\net8.0\Lab4_FuturesAndContinuations.pdb
+D:\Facultate\An 3\1st sem\classes\Programare paralela si distribuita\Lab 8 - week 9\Lab4_FuturesAndContinuations\obj\Debug\net8.0\Lab4_FuturesAndContinuations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\An 3\1st sem\classes\Programare paralela si distribuita\Lab 8 - week 9\Lab4_FuturesAndContinuations\obj\Debug\net8.0\Lab4_FuturesAndContinuations.AssemblyInfoInputs.cache
+D:\Facultate\An 3\1st sem\classes\Programare paralela si distribuita\Lab 8 - week 9\Lab4_FuturesAndContinuations\obj\Debug\net8.0\Lab4_FuturesAndContinuations.AssemblyInfo.cs
+D:\Facultate\An 3\1st sem\classes\Programare paralela si distribuita\Lab 8 - week 9\Lab4_FuturesAndContinuations\obj\Debug\net8.0\Lab4_FuturesAndContinuations.csproj.CoreCompileInputs.cache
+D:\Facultate\An 3\1st sem\classes\Programare paralela si distribuita\Lab 8 - week 9\Lab4_FuturesAndContinuations\obj\Debug\net8.0\Lab4_FuturesAndContinuations.dll
+D:\Facultate\An 3\1st sem\classes\Programare paralela si distribuita\Lab 8 - week 9\Lab4_FuturesAndContinuations\obj\Debug\net8.0\refint\Lab4_FuturesAndContinuations.dll
+D:\Facultate\An 3\1st sem\classes\Programare paralela si distribuita\Lab 8 - week 9\Lab4_FuturesAndContinuations\obj\Debug\net8.0\Lab4_FuturesAndContinuations.pdb
+D:\Facultate\An 3\1st sem\classes\Programare paralela si distribuita\Lab 8 - week 9\Lab4_FuturesAndContinuations\obj\Debug\net8.0\Lab4_FuturesAndContinuations.genruntimeconfig.cache
+D:\Facultate\An 3\1st sem\classes\Programare paralela si distribuita\Lab 8 - week 9\Lab4_FuturesAndContinuations\obj\Debug\net8.0\ref\Lab4_FuturesAndContinuations.dll

@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultate\\An 3\\1st sem\\classes\\Programare paralela si distribuita\\Lab 8 - week 9\\Lab4_FuturesAndContinuations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\1st sem\\classes\\Programare paralela si distribuita\\Lab 8 - week 9\\Lab4_FuturesAndContinuations\\Socket\\AsyncSocketClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Socket\\AsyncSocketClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\1st sem\\classes\\Programare paralela si distribuita\\Lab 8 - week 9\\Lab4_FuturesAndContinuations\\Parser\\AsyncAwaitParser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Parser\\AsyncAwaitParser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\1st sem\\classes\\Programare paralela si distribuita\\Lab 8 - week 9\\Lab4_FuturesAndContinuations\\Parser\\BaseParser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Parser\\BaseParser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\1st sem\\classes\\Programare paralela si distribuita\\Lab 8 - week 9\\Lab4_FuturesAndContinuations\\Parser\\CallbackParser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Parser\\CallbackParser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\1st sem\\classes\\Programare paralela si distribuita\\Lab 8 - week 9\\Lab4_FuturesAndContinuations\\Parser\\TaskParser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Parser\\TaskParser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\An 3\\1st sem\\classes\\Programare paralela si distribuita\\Lab 8 - week 9\\Lab4_FuturesAndContinuations\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AsyncSocketClient.cs",
+              "DocumentMoniker": "D:\\Facultate\\An 3\\1st sem\\classes\\Programare paralela si distribuita\\Lab 8 - week 9\\Lab4_FuturesAndContinuations\\Socket\\AsyncSocketClient.cs",
+              "RelativeDocumentMoniker": "Socket\\AsyncSocketClient.cs",
+              "ToolTip": "D:\\Facultate\\An 3\\1st sem\\classes\\Programare paralela si distribuita\\Lab 8 - week 9\\Lab4_FuturesAndContinuations\\Socket\\AsyncSocketClient.cs",
+              "RelativeToolTip": "Socket\\AsyncSocketClient.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAADwv14AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:47:49.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskParser.cs",
+              "DocumentMoniker": "D:\\Facultate\\An 3\\1st sem\\classes\\Programare paralela si distribuita\\Lab 8 - week 9\\Lab4_FuturesAndContinuations\\Parser\\TaskParser.cs",
+              "RelativeDocumentMoniker": "Parser\\TaskParser.cs",
+              "ToolTip": "D:\\Facultate\\An 3\\1st sem\\classes\\Programare paralela si distribuita\\Lab 8 - week 9\\Lab4_FuturesAndContinuations\\Parser\\TaskParser.cs",
+              "RelativeToolTip": "Parser\\TaskParser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:43:33.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseParser.cs",
+              "DocumentMoniker": "D:\\Facultate\\An 3\\1st sem\\classes\\Programare paralela si distribuita\\Lab 8 - week 9\\Lab4_FuturesAndContinuations\\Parser\\BaseParser.cs",
+              "RelativeDocumentMoniker": "Parser\\BaseParser.cs",
+              "ToolTip": "D:\\Facultate\\An 3\\1st sem\\classes\\Programare paralela si distribuita\\Lab 8 - week 9\\Lab4_FuturesAndContinuations\\Parser\\BaseParser.cs",
+              "RelativeToolTip": "Parser\\BaseParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:43:20.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CallbackParser.cs",
+              "DocumentMoniker": "D:\\Facultate\\An 3\\1st sem\\classes\\Programare paralela si distribuita\\Lab 8 - week 9\\Lab4_FuturesAndContinuations\\Parser\\CallbackParser.cs",
+              "RelativeDocumentMoniker": "Parser\\CallbackParser.cs",
+              "ToolTip": "D:\\Facultate\\An 3\\1st sem\\classes\\Programare paralela si distribuita\\Lab 8 - week 9\\Lab4_FuturesAndContinuations\\Parser\\CallbackParser.cs",
+              "RelativeToolTip": "Parser\\CallbackParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:43:12.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Facultate\\An 3\\1st sem\\classes\\Programare paralela si distribuita\\Lab 8 - week 9\\Lab4_FuturesAndContinuations\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Facultate\\An 3\\1st sem\\classes\\Programare paralela si distribuita\\Lab 8 - week 9\\Lab4_FuturesAndContinuations\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:34:51.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsyncAwaitParser.cs",
+              "DocumentMoniker": "D:\\Facultate\\An 3\\1st sem\\classes\\Programare paralela si distribuita\\Lab 8 - week 9\\Lab4_FuturesAndContinuations\\Parser\\AsyncAwaitParser.cs",
+              "RelativeDocumentMoniker": "Parser\\AsyncAwaitParser.cs",
+              "ToolTip": "D:\\Facultate\\An 3\\1st sem\\classes\\Programare paralela si distribuita\\Lab 8 - week 9\\Lab4_FuturesAndContinuations\\Parser\\AsyncAwaitParser.cs",
+              "RelativeToolTip": "Parser\\AsyncAwaitParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:42:46.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
